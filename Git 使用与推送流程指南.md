@@ -263,3 +263,67 @@ Remove-Item -Recurse -Force .git
 Remove-Item ~/.ssh/id_ed25519
 Remove-Item ~/.ssh/id_ed25519.pub
 ```
+
+---
+
+# 在已经推送过仓库之后，推送另一个仓库内容
+
+1. 添加一个新的远程仓库
+
+```Bash
+git remote add [new-remote-name] [new-repository-url]
+```
+
+例如：
+
+```Bash
+git remote add new-origin https://github.com/user/new-repo.git
+```
+
+2. 查看远程仓库是否添加成功
+
+```Bash
+git remote -v
+```
+
+3. 将需要指定新的远程仓库的名称和想要推送的分支名称
+
+```Bash
+git push [new-remote-name] [branch-name]
+```
+
+例如：
+
+```Bash
+git push new-origin main
+```
+
+## 如果你想更改现有的远程仓库地址
+
+如果你只是想更改现有远程仓库的 URL，而不是添加一个新的，你可以使用 git remote set-url 命令
+
+例如，如果你想更改名为 origin 的远程仓库的 URL，可以运行
+
+```Bash
+git remote set-url origin [new-repository-url]
+```
+
+然后，你可以像平常一样使用 git push 将代码推送到新的 URL
+
+# 完整流程
+
+```Bash
+git add .
+git commit -m "Initial commit"
+
+git branch
+
+git push Froge main
+
+```
+
+## 合并内容
+
+```Bash
+git pull Froge main --allow-unrelated-histories
+```
