@@ -48,11 +48,11 @@
 #### DevOps 与基础设施 (DevOps & Infrastructure)
 
 *   **Docker**
-    *   [**Docker 语法全解析：从入门到精通**](https://github.com/EldricArlo/Forge/Areas_Of_Knowledge/DevOps_And_Infrastructure/Docker/Docker_Complete_Guide.md)
-    *   [**Docker 速查表**](https://github.com/EldricArlo/Forge/Areas_Of_Knowledge/DevOps_And_Infrastructure/Docker/Docker_Cheatsheet.md)
+    *   [**Docker 语法全解析：从入门到精通**](./Areas_Of_Knowledge/DevOps_And_Infrastructure/Docker/Docker_Complete_Guide.md)
+    *   [**Docker 速查表**](./Areas_Of_Knowledge/DevOps_And_Infrastructure/Docker/Docker_Cheatsheet.md)
 *   **Git**
-    *   [**Git 与 GitHub 协作终极指南**](https://github.com/EldricArlo/Forge/Areas_Of_Knowledge/DevOps_And_Infrastructure/Git/Git_Cheatsheet.md)
-    *   [**Git 完全速查表**](https://github.com/EldricArlo/Forge/Areas_Of_Knowledge/DevOps_And_Infrastructure/Git/Git_Cheatsheet.md)
+    *   [**Git 与 GitHub 协作终极指南**](./Areas_Of_Knowledge/DevOps_And_Infrastructure/Git/Git_Cheatsheet.md)
+    *   [**Git 完全速查表**](./Areas_Of_Knowledge/DevOps_And_Infrastructure/Git/Git_Cheatsheet.md)
 
 ### 项目 (Projects)
 
@@ -63,7 +63,7 @@
         *   **Oracore Project**
         *   **Orakit Project**
 *   **Python图像绘制指导 (Python_Draw_Dev)**
-    *   [**二维折线图**](Projects\Python_Draw_Dev\2D_line_chart.md)
+    *   [**二维折线图**](./Projects/Python_Draw_Dev/2D_line_chart.md)
 
 #### C & Projects
 
