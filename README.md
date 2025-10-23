@@ -88,10 +88,10 @@
 
 #### Python & Projects
 
-*   **密码管理应用项目 (Password_Manager_App_Dev)**
+<!-- *   **密码管理应用项目 (Password_Manager_App_Dev)**
         *   **Oracipher Project**
         *   **Oracore Project**
-        *   **Orakit Project**
+        *   **Orakit Project** -->
 *   **Python图像绘制指导 (Python_Draw_Dev)**
     *   [**二维折线图**](./Projects/Python_Draw_Dev/2D_line_chart.md)
 
