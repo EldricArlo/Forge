@@ -1,6 +1,19 @@
 # 个人技术知识库 (Personal Tech Knowledge Base)
 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+<div align = "center">
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![PyQt6](https://img.shields.io/badge/PyQt6-45b848?style=for-the-badge&logo=python&logoColor=white)](https://riverbankcomputing.com/software/pyqt/intro)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![Regex](https://img.shields.io/badge/Regex-E74C3C?style=for-the-badge)](https://en.wikipedia.org/wiki/Regular_expression)
+
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Samsung Pass](https://img.shields.io/badge/Samsung%20Pass-1428A0?style=for-the-badge&logo=samsung&logoColor=white)](https://www.samsung.com/global/galaxy/apps/samsung-pass/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![E2EE](https://img.shields.io/badge/E2EE-2ECC71?style=for-the-badge)](https://zh.wikipedia.org/wiki/%E7%AB%AF%E5%88%B0%E7%AB%AF%E5%8A%A0%E5%AF%86)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey?style=for-the-badge)](https://creativecommons.org/licenses/by-sa/4.0/)
+</div>
 
 欢迎来到我的个人技术知识库！这是一个主题为中文的教学社区，如果可以，我也会在我英语的水准有所提升的时候添加一个相同的英文内容教学；
 
