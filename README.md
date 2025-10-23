@@ -1,4 +1,6 @@
-# 个人技术知识库 (Personal Tech Knowledge Base)
+<div align = "center">
+    <h1>个人技术知识库 (Personal Tech Knowledge Base)</h1>
+</div>
 
 <div align = "center">
 
