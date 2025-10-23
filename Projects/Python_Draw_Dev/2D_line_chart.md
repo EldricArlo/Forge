@@ -62,7 +62,8 @@ plt.show()
 import matplotlib.pyplot as plt
 ```
 导入matplotlib库中的pyplot模块并命名为plt
-这个库的详细解释：[Matplotlib](https://github.com/EldricArlo/Forge/Areas_Of_Knowledge/Programming_Languages/Python/libraries/Matplotlib_Guide.md)
+
+这个库的详细解释：[Matplotlib](https://github.com/EldricArlo/Forge/main/Areas_Of_Knowledge/Programming_Languages/Python/libraries/Matplotlib_Guide.md)
 
 ```python
 # 设置中文显示，确保标题和标签能正常显示中文
@@ -80,7 +81,9 @@ max_temps = [38, 37, 39, 38, 40, 39, 41, 40, 42, 40, 41]
 min_temps = [-6, -8, -5, -7, -4, -5, -3, -6, -4, -5, -3]
 ```
 这是一个举例的数据；
+
 要求每个y值数据数量应该和x数据量意义对应，否则会直接报错；
+
 (x_element_numbers == y_element_numbers)；
 
 ```python
@@ -111,6 +114,7 @@ plt.plot(year, min_temps, color = 'green', linestyle = '-.',
          marker = 'o', linewidth = 2.5, markersize = 7, label = '最低气温（摄氏度）')
 ```
 同时绘制三条折线图，括号内的第一个元素为x轴数据，第二个元素为y轴数据；
+
 color - 设置折现的颜色；
 linestyle - 设置折现的样式；
 marker - 设置折点的样式；
@@ -126,8 +130,11 @@ plt.xlabel('年份', fontsize = 14)
 plt.ylabel('气温（摄氏度）', fontsize = 14)
 ```
 title - 给这个图像设置一个标题；
+
 其中的fontweight给字体设置实体样式，fontsize给字体设置大小；
+
 xlabel - 给这个图像的x轴设置一个标签；
+
 ylabel - 给这个图像的y轴设置一个标签；
 
 ```python
@@ -135,7 +142,9 @@ ylabel - 给这个图像的y轴设置一个标签；
 plt.grid(True, linestyle = '--', alpha = 0.7)
 ```
 grid - 网格，格子；
+
 给整个图标设置一个网格的背景，其中的True为布尔值，默认是True；
+
 alpha - 设置网格的透明度(透明度程度从0到1逐渐递增为完全不透明)；
 
 ```python
@@ -143,6 +152,7 @@ alpha - 设置网格的透明度(透明度程度从0到1逐渐递增为完全不
 plt.legend(fontsize = 12, loc = 'best')
 ```
 自动由系统设置曲线为最佳的显示状况，使图像能够更合理的合适的显示出来；
+
 loc - location，自动设置最佳的位置；
 
 ```python
@@ -151,6 +161,7 @@ plt.xticks(year, rotation = 45)
 plt.yticks(fontsize = 11) # 调整y轴刻度字体大小
 ```
 这个xticks和yticks分别设置在x轴和y轴上的元素的数据和样式；
+
 rotation - 旋转，设置旋转45度角；
 
 ```python
@@ -167,15 +178,20 @@ for x, y in zip(year, min_temps):
     plt.text(x, y + 1, f'{y}', ha = 'center', va = 'bottom', fontsize = 10, color = 'green')
 ```
 循环每个折线的x数据，y数据打包成一个一个对应的元组；
+
 然后将这些元组逐个打印到折线的位置；
+
 harizontalalignment - 为水平对齐设置为居中；
+
 verticalalignment - 为垂直对齐设置为折线的上方和下方；
 
 ```python
 plt.tight_layout()
 ```
 plt.tight_layout() 是 Python 的 Matplotlib 库中一个非常实用且常用的函数;
+
 它的主要功能是自动调整图表中的子图参数，
+
 以确保图表元素（如标题、坐标轴标签、刻度标签等）之间不会重叠，并尽可能美观地填充整个图窗区域;
 
 ```python
