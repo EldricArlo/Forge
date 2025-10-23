@@ -45,14 +45,44 @@
 
 ### 知识领域 (Areas_Of_Knowledge)
 
-#### DevOps 与基础设施 (DevOps & Infrastructure)
 
-*   **Docker**
-    *   [**Docker 语法全解析：从入门到精通**](./Areas_Of_Knowledge/DevOps_And_Infrastructure/Docker/Docker_Complete_Guide.md)
-    *   [**Docker 速查表**](./Areas_Of_Knowledge/DevOps_And_Infrastructure/Docker/Docker_Cheatsheet.md)
-*   **Git**
-    *   [**Git 与 GitHub 协作终极指南**](./Areas_Of_Knowledge/DevOps_And_Infrastructure/Git/Git_Cheatsheet.md)
-    *   [**Git 完全速查表**](./Areas_Of_Knowledge/DevOps_And_Infrastructure/Git/Git_Cheatsheet.md)
+*   **DevOps 与基础设施 (DevOps & Infrastructure)**
+    *   **Docker**
+        *   [**Docker 语法全解析：从入门到精通**](./Areas_Of_Knowledge/DevOps_And_Infrastructure/Docker/Docker_Complete_Guide.md)
+        *   [**Docker 速查表**](./Areas_Of_Knowledge/DevOps_And_Infrastructure/Docker/Docker_Cheatsheet.md)
+    *   **Git**
+        *   [**Git & GitHub 指南**](./Areas_Of_Knowledge/DevOps_And_Infrastructure/Git/Git_Cheatsheet.md)
+        *   [**Git 完全速查表**](./Areas_Of_Knowledge/DevOps_And_Infrastructure/Git/Git_Cheatsheet.md)
+*   **框架与工具 (Frameworks_And_Tools)**
+    *   **Markdown**
+        *   [**Markdown 速查表**](./Areas_Of_Knowledge/Frameworks_And_Tools/Markdown/Markdown_Cheatsheet.md)
+        *   [**Markdown 指南**](./Areas_Of_Knowledge/Frameworks_And_Tools/Markdown/Markdown_Complete_Guide.md)
+    *   **PyQt6**
+        *   [**PyQt6_Framework_指南**](./Areas_Of_Knowledge/Frameworks_And_Tools/PyQt6/PyQt6_Framework_Guide.md)
+    *   **正则表达式 (Regex)**
+        *   [**正则表达式指南**](./Areas_Of_Knowledge/Frameworks_And_Tools/Regex/Regular_Expressions_Handbook.md)
+*   **Programming_Languages**
+    *   **Flutter_and_Dart**
+        *   [**Dart 语言指南**](./Areas_Of_Knowledge/Programming_Languages/Flutter_and_Dart/Flutter_and_Python_Guide.md)
+    *   **Python**
+        *   **libraries**
+            *   [**Matplotlib库指南**](./Areas_Of_Knowledge/Programming_Languages/Python/libraries/Matplotlib_Guide.md)
+            *   [**Numpy库指南**](./Areas_Of_Knowledge/Programming_Languages/Python/libraries/NumPy_Guide.md)
+            *   [**OS_Module库指南**](./Areas_Of_Knowledge/Programming_Languages/Python/libraries/OS_Module_Guide.md)
+            *   [**Pandas库指南**](./Areas_Of_Knowledge/Programming_Languages/Python/libraries/Pandas_Guide.md)
+            *   [**Pathlib_Module库指南**](./Areas_Of_Knowledge/Programming_Languages/Python/libraries/Pathlib_Module_Guide.md)
+            *   [**PikePDF库指南**](./Areas_Of_Knowledge/Programming_Languages/Python/libraries/PikePDF_Guide.md)
+            *   [**PyFiglet库指南**](./Areas_Of_Knowledge/Programming_Languages/Python/libraries/PyFiglet_Guide.md)
+            *   [**Rich库指南**](./Areas_Of_Knowledge/Programming_Languages/Python/libraries/Rich_Library_Guide.md)
+            *   [**Seaborn库指南**](./Areas_Of_Knowledge/Programming_Languages/Python/libraries/Seaborn_Guide.md)
+        *   [**Python 语法手册**](./Areas_Of_Knowledge/Programming_Languages/Python/Python_Syntax_Handbook.md)
+*   **Security_And_Cryptography**
+    *   **Authentication**
+        *   [支持二重验证器应用及网站列表](./Areas_Of_Knowledge/Security_And_Cryptography/Authentication/TOTP_Supported_Services_List.md)
+    *   **Password_Managers**
+        *   [python加密说明](./Areas_Of_Knowledge/Security_And_Cryptography/Password_Managers/Python_E2EE_Password_Manager_Guide.md)
+        *   [Python端对端说明](./Areas_Of_Knowledge/Security_And_Cryptography/Password_Managers/Python_ETE_Encrpted_Password_Manager.md)
+        *   [Samsung Pass文件加密逻辑](./Areas_Of_Knowledge/Security_And_Cryptography/Password_Managers/Samsung_Pass_File_Format_Analysis.md)
 
 ### 项目 (Projects)
 
@@ -68,6 +98,8 @@
 #### C & Projects
 
 ### 资源合集 (Resource_Collections)
+*   [**Awesome_Python_Libs**](./Resource_Collections/Awesome_Python_Libs.md)
+*   [**Useful_CLI_Commands**](./Resource_Collections/Useful_CLI_Commands.md)
 
 ### 归档 (Archives)
 
