@@ -97,9 +97,9 @@
 
 #### C & Projects
 
-<!-- ### 资源合集 (Resource_Collections)
+### 资源合集 (Resource_Collections)
 *   [**Awesome_Python_Libs**](./Resource_Collections/Awesome_Python_Libs.md)
-*   [**Useful_CLI_Commands**](./Resource_Collections/Useful_CLI_Commands.md) -->
+*   [**Useful_CLI_Commands**](./Resource_Collections/Useful_CLI_Commands.md)
 
 ### 归档 (Archives)
 
