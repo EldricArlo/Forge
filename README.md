@@ -72,6 +72,7 @@
     *   **Git**
         *   [**Git & GitHub 指南**](./Areas_Of_Knowledge/DevOps_And_Infrastructure/Git/Git_Cheatsheet.md)
         *   [**Git 完全速查表**](./Areas_Of_Knowledge/DevOps_And_Infrastructure/Git/Git_Cheatsheet.md)
+        *   [**Git 简单操作流程说明**](./Areas_Of_Knowledge/DevOps_And_Infrastructure/Git/Git_Simple_Complete_Step_by_Step_Instructions.md)
 *   **框架与工具 (Frameworks_And_Tools)**
     *   **Markdown**
         *   [**Markdown 速查表**](./Areas_Of_Knowledge/Frameworks_And_Tools/Markdown/Markdown_Cheatsheet.md)
