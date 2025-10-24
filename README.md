@@ -2,18 +2,6 @@
     <h2> Personal Tech Knowledge Base </h2>
 </div>
 
-<!-- <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&repeat=true&width=550&lines=Every+madman's+heart.;Perhaps%2C+has+been+wounded+by+a+rose.;May+14%2C+2024" alt="Typing SVG" />
-  </a>
-</div> -->
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=30&pause=1000&color=DB2777&center=true&vCenter=true&repeat=true&width=550&lines=Every+madman's+heart.;Perhaps%2C+has+been+wounded+by+a+rose.;May+14%2C+2024" alt="Typing SVG" />
-  </a>
-</div>
-
 <div align="center">
 
   <h4> Tech Stack </h4>
@@ -23,8 +11,6 @@
     <a href="https://flutter.dev"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
     <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
   </p>
-
-  <h4> Tools & Concepts </h4>
   <p>
     <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
     <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
@@ -32,8 +18,6 @@
     <a href="https://zh.wikipedia.org/wiki/%E7%AB%AF%E5%88%B0%E7%AB%AF%E5%8A%A0%E5%AF%86"><img alt="E2EE" src="https://img.shields.io/badge/E2EE-2ECC71?style=for-the-badge&logo=lock&logoColor=white"></a>
     <a href="https://www.samsung.com/global/galaxy/apps/samsung-pass/"><img alt="Samsung Pass" src="https://img.shields.io/badge/Samsung%20Pass-1428A0?style=for-the-badge&logo=samsung&logoColor=white"></a>
   </p>
-
-  <h4> Project Status </h4>
   <p>
     <!-- <a href="https://github.com/EldricArlo/Forge/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/EldricArlo/Forge?style=for-the-badge&logo=github&logoColor=white"></a> -->
     <!-- <a href="https://github.com/EldricArlo/Forge/network/members"><img alt="GitHub Forks" src="https://img.shields.io/github/forks/EldricArlo/Forge?style=for-the-badge&logo=github&logoColor=white"></a> -->
@@ -44,7 +28,18 @@
      <a href="https://github.com/EldricArlo/Forge/graphs/commit-activity"><img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/EldricArlo/Forge?style=for-the-badge"></a>
      <a href="https://github.com/EldricArlo/Forge"><img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/EldricArlo/Forge?style=for-the-badge"></a>
   </p>
+</div>
 
+<!-- <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&repeat=true&width=550&lines=Every+madman's+heart.;Perhaps%2C+has+been+wounded+by+a+rose.;May+14%2C+2024" alt="Typing SVG" />
+  </a>
+</div> -->
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=30&pause=1000&color=DB2777&center=true&vCenter=true&repeat=true&width=550&lines=Every+madman's+heart.;Perhaps%2C+has+been+wounded+by+a+rose.;May+14%2C+2024" alt="Typing SVG" />
+  </a>
 </div>
 
 欢迎来到我的个人技术知识库！这是一个主题为中文的教学社区，😘如果可以，我也会在我英语的水准有所提升的时候添加一个相同的英文内容教学
@@ -165,7 +160,9 @@
 <div align = "center">
 
 该库采用
-[知识共享署名-相同方式共享 4.0 国际许可协议 (Creative Commons Attribution-ShareAlike 4.0 International License)](https://creativecommons.org/licenses/by-sa/4.0/)
+[知识共享署名-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/)
+
+[Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
 进行许可
 </div>
 
