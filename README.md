@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=550&lines=Every+madman's+heart%2C.;Perhaps%2C+has+been+wounded+by+a+rose.;May+14%2C+2024" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=550&lines=Every+madman's+heart.;Perhaps%2C+has+been+wounded+by+a+rose.;May+14%2C+2024" alt="Typing SVG" /></a>
 </div>
 
 <div align = "center">
