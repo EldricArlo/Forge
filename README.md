@@ -174,6 +174,6 @@
 *   **署名** — 您必须给出适当的署名
 *   **相同方式共享** — 如果您再混合、转换、或者基于该作品创作，您必须基于同样的许可协议分发您的贡献
 
----
-* Life's but a walking shadow, a poor player,That struts and frets his hour upon the stage,And then is heard no more. It is a tale Told by an idiot, full of sound and fury,Signifying nothing. William Shakespeare / Macbeth
-* 人生如癡人說夢，充滿著喧嘩與躁動，卻沒有任何意義。 威廉·莎士比亞
+----
+>* Life's but a walking shadow, a poor player,That struts and frets his hour upon the stage,And then is heard no more. It is a tale Told by an idiot, full of sound and fury,Signifying nothing. William Shakespeare / Macbeth
+>* 人生如癡人說夢，充滿著喧嘩與躁動，卻沒有任何意義。 威廉·莎士比亞
