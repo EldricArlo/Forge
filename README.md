@@ -22,7 +22,7 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey?style=for-the-badge)](https://creativecommons.org/licenses/by-sa/4.0/)
 </div>
 
-欢迎来到我的个人技术知识库！这是一个主题为中文的教学社区，如果可以，我也会在我英语的水准有所提升的时候添加一个相同的英文内容教学
+欢迎来到我的个人技术知识库！这是一个主题为中文的教学社区，😘如果可以，我也会在我英语的水准有所提升的时候添加一个相同的英文内容教学
 
 这是一个旨在构建“第二大脑”的项目，用于系统性地保存、组织和精炼我在软件开发、DevOps、系统架构和各类技术领域的学习笔记、深度指南与速查表
 
