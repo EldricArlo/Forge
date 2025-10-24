@@ -1,6 +1,6 @@
 # Areas_Of_Knowledge\Security_And_Cryptography\Authentication\TOTP_Supported_Services_List.md
 
-### **支持TOTP（兼容验证-器应用）的软件与网站大全 (增强版)**
+### **支持TOTP（兼容验证-器应用）的软件与网站大全 **
 
 TOTP（Time-based One-Time Password，基于时间的一次性密码）是一种广泛应用的多因素认证（MFA）标准，通过“验证器应用”（Authenticator App）生成动态验证码，能够显著提升账户的安全性。几乎所有提示您使用“验证器应用”或“Authenticator App”进行两步验证（2FA）的服务，都支持像Google Authenticator, Microsoft Authenticator, Authy或Bitwarden等标准的TOTP工具。
 
