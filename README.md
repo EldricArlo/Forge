@@ -26,7 +26,7 @@
 
 ---
 
-## 📂 项目结构说明
+## 🥳 项目结构说明
 
 本知识库的组织结构融合了 **P.A.R.A. 方法** 和 **Johnny.Decimal 编号系统** 的核心思想，旨在通过有序的分类和编号，实现内容的高效管理与检索
 
@@ -40,19 +40,19 @@
 └── 99_Archives/
 ```
 
-*   **`00_Inbox` (📥 收件箱):**
+*   **`00_Inbox` (🤯 收件箱):**
     所有未经整理的新笔记、灵感闪念和网络剪藏的临时存放区。这是知识流入的第一站，旨在保持主知识库的整洁有序。
 
-*   **`10_Areas_Of_Knowledge` (🧠 知识领域):**
+*   **`10_Areas_Of_Knowledge` (🧐 知识领域):**
     知识库的核心。这里存放的是需要长期关注、学习和维护的各个技术领域的系统性知识。这也是本 `README` 文件目录索引的主要部分。
 
-*   **`20_Projects` (🚀 项目):**
+*   **`20_Projects` (🤠 项目):**
     存放具有明确目标和时间线的具体任务相关资料。例如，一个正在开发的应用程序、一篇正在撰写的技术文章等。
 
-*   **`30_Resource_Collections` (📚 资源集合):**
+*   **`30_Resource_Collections` (🥸 资源集合):**
     用于存放一些通用的、不属于特定领域的资源列表，如“Awesome Lists”、常用工具配置、灵感链接等。
 
-*   **`99_Archives` (🗄️ 档案馆):**
+*   **`99_Archives` (😎 档案馆):**
     “冷藏室”，用于存放已完成的项目、过时的技术笔记或暂时不再活跃的资料，以备将来查阅。
 
 ---
@@ -94,11 +94,11 @@
         *   [**Python 语法手册**](./Areas_Of_Knowledge/Programming_Languages/Python/Python_Syntax_Handbook.md)
 *   **Security_And_Cryptography**
     *   **Authentication**
-        *   [支持二重验证器应用及网站列表](./Areas_Of_Knowledge/Security_And_Cryptography/Authentication/TOTP_Supported_Services_List.md)
+        *   [**支持二重验证器应用及网站列表**](./Areas_Of_Knowledge/Security_And_Cryptography/Authentication/TOTP_Supported_Services_List.md)
     *   **Password_Managers**
-        *   [python加密说明](./Areas_Of_Knowledge/Security_And_Cryptography/Password_Managers/Python_E2EE_Password_Manager_Guide.md)
-        *   [Python端对端说明](./Areas_Of_Knowledge/Security_And_Cryptography/Password_Managers/Python_ETE_Encrpted_Password_Manager.md)
-        *   [Samsung Pass文件加密逻辑](./Areas_Of_Knowledge/Security_And_Cryptography/Password_Managers/Samsung_Pass_File_Format_Analysis.md)
+        *   [**python加密说明**](./Areas_Of_Knowledge/Security_And_Cryptography/Password_Managers/Python_E2EE_Password_Manager_Guide.md)
+        *   [**Python端对端说明**](./Areas_Of_Knowledge/Security_And_Cryptography/Password_Managers/Python_ETE_Encrpted_Password_Manager.md)
+        *   [**Samsung Pass文件加密逻辑**](./Areas_Of_Knowledge/Security_And_Cryptography/Password_Managers/Samsung_Pass_File_Format_Analysis.md)
 
 ### 项目 (Projects)
 
@@ -121,7 +121,7 @@
 
 ---
 
-## 🤝 贡献指南
+## 🤓 贡献指南
 
 这是一个高度个人化的知识库项目。尽管如此，如果您在浏览笔记时发现了任何明显的错误、拼写问题或有可以改进的建议，非常欢迎通过 [GitHub Issues](https://github.com/EldricArlo/Forge/issues) 提出。
 
@@ -130,7 +130,7 @@
 </div>
 ---
 
-## 📜 许可协议
+## 🙃 许可协议
 
 <div align = "center">
 
