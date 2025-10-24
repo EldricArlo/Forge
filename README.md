@@ -1,5 +1,6 @@
 <div align = "center">
-    <h1>个人技术知识库 (Personal Tech Knowledge Base)</h1>
+    <h1>个人技术知识库 </h1>
+    <h2> Personal Tech Knowledge Base </h2>
 </div>
 
 <div align = "center">
