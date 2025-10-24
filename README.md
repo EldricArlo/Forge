@@ -2,23 +2,51 @@
     <h2> Personal Tech Knowledge Base </h2>
 </div>
 
+<!-- <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&repeat=true&width=550&lines=Every+madman's+heart.;Perhaps%2C+has+been+wounded+by+a+rose.;May+14%2C+2024" alt="Typing SVG" />
+  </a>
+</div> -->
+
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=550&lines=Every+madman's+heart.;Perhaps%2C+has+been+wounded+by+a+rose.;May+14%2C+2024" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=30&pause=1000&color=DB2777&center=true&vCenter=true&repeat=true&width=550&lines=Every+madman's+heart.;Perhaps%2C+has+been+wounded+by+a+rose.;May+14%2C+2024" alt="Typing SVG" />
+  </a>
 </div>
 
-<div align = "center">
+<div align="center">
 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![PyQt6](https://img.shields.io/badge/PyQt6-45b848?style=for-the-badge&logo=python&logoColor=white)](https://riverbankcomputing.com/software/pyqt/intro)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-[![Regex](https://img.shields.io/badge/Regex-E74C3C?style=for-the-badge)](https://en.wikipedia.org/wiki/Regular_expression)
+  <h3>🛠️ 技术栈 (Tech Stack)</h3>
+  <p>
+    <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+    <a href="https://riverbankcomputing.com/software/pyqt/intro"><img alt="PyQt6" src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white"></a>
+    <a href="https://flutter.dev"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
+    <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+  </p>
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Samsung Pass](https://img.shields.io/badge/Samsung%20Pass-1428A0?style=for-the-badge&logo=samsung&logoColor=white)](https://www.samsung.com/global/galaxy/apps/samsung-pass/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![E2EE](https://img.shields.io/badge/E2EE-2ECC71?style=for-the-badge)](https://zh.wikipedia.org/wiki/%E7%AB%AF%E5%88%B0%E7%AB%AF%E5%8A%A0%E5%AF%86)
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey?style=for-the-badge)](https://creativecommons.org/licenses/by-sa/4.0/)
+  <h3>⚙️ 工具与核心理念 (Tools & Concepts)</h3>
+  <p>
+    <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
+    <a href="https://en.wikipedia.org/wiki/Regular_expression"><img alt="Regex" src="https://img.shields.io/badge/Regex-E74C3C?style=for-the-badge"></a>
+    <a href="https://zh.wikipedia.org/wiki/%E7%AB%AF%E5%88%B0%E7%AB%AF%E5%8A%A0%E5%AF%86"><img alt="E2EE" src="https://img.shields.io/badge/E2EE-2ECC71?style=for-the-badge&logo=lock&logoColor=white"></a>
+    <a href="https://www.samsung.com/global/galaxy/apps/samsung-pass/"><img alt="Samsung Pass" src="https://img.shields.io/badge/Samsung%20Pass-1428A0?style=for-the-badge&logo=samsung&logoColor=white"></a>
+  </p>
+
+  <h3>📊 项目状态 (Project Status)</h3>
+  <p>
+    <a href="https://github.com/EldricArlo/Forge/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/EldricArlo/Forge?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://github.com/EldricArlo/Forge/network/members"><img alt="GitHub Forks" src="https://img.shields.io/github/forks/EldricArlo/Forge?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://github.com/EldricArlo/Forge/watchers"><img alt="GitHub Watchers" src="https://img.shields.io/github/watchers/EldricArlo/Forge?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://github.com/EldricArlo/Forge/issues"><img alt="GitHub Issues" src="https://img.shields.io/github/issues/EldricArlo/Forge?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://github.com/EldricArlo/Forge/pulls"><img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/EldricArlo/Forge?style=for-the-badge&logo=github&logoColor=white"></a>
+  </p>
+  <p>
+     <a href="https://github.com/EldricArlo/Forge/blob/main/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/EldricArlo/Forge?style=for-the-badge"></a>
+     <a href="https://github.com/EldricArlo/Forge/graphs/commit-activity"><img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/EldricArlo/Forge?style=for-the-badge"></a>
+     <a href="https://github.com/EldricArlo/Forge"><img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/EldricArlo/Forge?style=for-the-badge"></a>
+  </p>
+
 </div>
 
 欢迎来到我的个人技术知识库！这是一个主题为中文的教学社区，😘如果可以，我也会在我英语的水准有所提升的时候添加一个相同的英文内容教学
