@@ -1,4 +1,4 @@
-<div align = "center">
+<div align = "center" width = 500>
     <h2> Personal Tech Knowledge Base </h2>
 </div>
 
