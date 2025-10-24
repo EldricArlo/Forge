@@ -22,11 +22,11 @@
     <!-- <a href="https://github.com/EldricArlo/Forge/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/EldricArlo/Forge?style=for-the-badge&logo=github&logoColor=white"></a> -->
     <!-- <a href="https://github.com/EldricArlo/Forge/network/members"><img alt="GitHub Forks" src="https://img.shields.io/github/forks/EldricArlo/Forge?style=for-the-badge&logo=github&logoColor=white"></a> -->
     <!-- <a href="https://github.com/EldricArlo/Forge/watchers"><img alt="GitHub Watchers" src="https://img.shields.io/github/watchers/EldricArlo/Forge?style=for-the-badge&logo=github&logoColor=white"></a> -->
-    <a href="https://github.com/EldricArlo/Forge/issues"><img alt="GitHub Issues" src="https://img.shields.io/github/issues/EldricArlo/Forge?style=for-the-badge&logo=github&logoColor=white"></a>
+    <!-- <a href="https://github.com/EldricArlo/Forge/issues"><img alt="GitHub Issues" src="https://img.shields.io/github/issues/EldricArlo/Forge?style=for-the-badge&logo=github&logoColor=white"></a> -->
     <!-- <a href="https://github.com/EldricArlo/Forge/pulls"><img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/EldricArlo/Forge?style=for-the-badge&logo=github&logoColor=white"></a> -->
     <a href="https://github.com/EldricArlo/Forge/blob/main/LICENSE"><img alt="License: CC BY-SA 4.0" src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=for-the-badge"></a>
-     <a href="https://github.com/EldricArlo/Forge/graphs/commit-activity"><img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/EldricArlo/Forge?style=for-the-badge"></a>
-     <a href="https://github.com/EldricArlo/Forge"><img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/EldricArlo/Forge?style=for-the-badge"></a>
+     <!-- <a href="https://github.com/EldricArlo/Forge/graphs/commit-activity"><img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/EldricArlo/Forge?style=for-the-badge"></a>
+     <a href="https://github.com/EldricArlo/Forge"><img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/EldricArlo/Forge?style=for-the-badge"></a> -->
   </p>
 </div>
 
