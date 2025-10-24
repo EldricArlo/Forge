@@ -16,7 +16,7 @@
 
 <div align="center">
 
-  <h3>🛠️ 技术栈 (Tech Stack)</h3>
+  <h4> Tech Stack </h4>
   <p>
     <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
     <a href="https://riverbankcomputing.com/software/pyqt/intro"><img alt="PyQt6" src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white"></a>
@@ -24,7 +24,7 @@
     <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
   </p>
 
-  <h3>⚙️ 工具与核心理念 (Tools & Concepts)</h3>
+  <h4> Tools & Concepts </h4>
   <p>
     <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
     <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
@@ -33,16 +33,14 @@
     <a href="https://www.samsung.com/global/galaxy/apps/samsung-pass/"><img alt="Samsung Pass" src="https://img.shields.io/badge/Samsung%20Pass-1428A0?style=for-the-badge&logo=samsung&logoColor=white"></a>
   </p>
 
-  <h3>📊 项目状态 (Project Status)</h3>
+  <h4> Project Status </h4>
   <p>
-    <a href="https://github.com/EldricArlo/Forge/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/EldricArlo/Forge?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://github.com/EldricArlo/Forge/network/members"><img alt="GitHub Forks" src="https://img.shields.io/github/forks/EldricArlo/Forge?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://github.com/EldricArlo/Forge/watchers"><img alt="GitHub Watchers" src="https://img.shields.io/github/watchers/EldricArlo/Forge?style=for-the-badge&logo=github&logoColor=white"></a>
+    <!-- <a href="https://github.com/EldricArlo/Forge/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/EldricArlo/Forge?style=for-the-badge&logo=github&logoColor=white"></a> -->
+    <!-- <a href="https://github.com/EldricArlo/Forge/network/members"><img alt="GitHub Forks" src="https://img.shields.io/github/forks/EldricArlo/Forge?style=for-the-badge&logo=github&logoColor=white"></a> -->
+    <!-- <a href="https://github.com/EldricArlo/Forge/watchers"><img alt="GitHub Watchers" src="https://img.shields.io/github/watchers/EldricArlo/Forge?style=for-the-badge&logo=github&logoColor=white"></a> -->
     <a href="https://github.com/EldricArlo/Forge/issues"><img alt="GitHub Issues" src="https://img.shields.io/github/issues/EldricArlo/Forge?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://github.com/EldricArlo/Forge/pulls"><img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/EldricArlo/Forge?style=for-the-badge&logo=github&logoColor=white"></a>
-  </p>
-  <p>
-     <a href="https://github.com/EldricArlo/Forge/blob/main/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/EldricArlo/Forge?style=for-the-badge"></a>
+    <!-- <a href="https://github.com/EldricArlo/Forge/pulls"><img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/EldricArlo/Forge?style=for-the-badge&logo=github&logoColor=white"></a> -->
+    <a href="https://github.com/EldricArlo/Forge/blob/main/LICENSE"><img alt="License: CC BY-SA 4.0" src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=for-the-badge"></a>
      <a href="https://github.com/EldricArlo/Forge/graphs/commit-activity"><img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/EldricArlo/Forge?style=for-the-badge"></a>
      <a href="https://github.com/EldricArlo/Forge"><img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/EldricArlo/Forge?style=for-the-badge"></a>
   </p>
