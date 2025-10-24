@@ -63,7 +63,7 @@ import matplotlib.pyplot as plt
 ```
 导入matplotlib库中的pyplot模块并命名为plt
 
-这个库的详细解释：[Matplotlib](../../../Areas_Of_Knowledge/Programming_Languages/Python/libraries/Matplotlib_Guide.md)
+这个库的详细解释：[Matplotlib](../../Areas_Of_Knowledge/Programming_Languages/Python/libraries/Matplotlib_Guide.md)
 
 ```python
 # 设置中文显示，确保标题和标签能正常显示中文
