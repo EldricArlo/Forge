@@ -4,6 +4,7 @@
 
 <div align="center">
   <p>
+    <!-- 编程语言 & 平台/框架 -->
     <a href="https://www.python.org"><img alt="Python" height="20" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"></a>
     <a href="https://golang.org/"><img alt="Go" height="20" src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black"></a>
@@ -14,18 +15,26 @@
     <a href="https://pypi.org/"><img alt="PyPI" height="20" src="https://img.shields.io/badge/PyPI-3776AB?style=plastic&logo=pypi&logoColor=white"></a>
   </p>
   <p>
+    <!-- 工具 & 概念 -->
     <a href="https://git-scm.com/"><img alt="Git" height="20" src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white"></a>
     <a href="https://www.docker.com/"><img alt="Docker" height="20" src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white"></a>
+    <a href="https://ffmpeg.org"><img alt="FFmpeg" height="20" src="https://img.shields.io/badge/FFmpeg-000000?style=plastic&logo=ffmpeg&logoColor=white"></a>
+    <a href="https://github.com/yt-dlp/yt-dlp"><img alt="yt-dlp" height="20" src="https://img.shields.io/badge/yt--dlp-FF5722?style=plastic&logo=yt-dlp&logoColor=white"></a>
+    <a href="https://www.blender.org"><img alt="Blender" height="20" src="https://img.shields.io/badge/Blender-E87D0D?style=plastic&logo=blender&logoColor=white"></a>
     <a href="https://www.markdownguide.org/"><img alt="Markdown" height="20" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
     <a href="https://en.wikipedia.org/wiki/Regular_expression"><img alt="Regex" height="20" src="https://img.shields.io/badge/Regex-E74C3C?style=plastic"></a>
     <a href="https://zh.wikipedia.org/wiki/%E7%AB%AF%E5%88%B0%E7%AB%AF%E5%8A%A0%E5%AF%86"><img alt="E2EE" height="20" src="https://img.shields.io/badge/E2EE-2ECC71?style=plastic&logo=lock&logoColor=white"></a>
     <a href="https://www.samsung.com/global/galaxy/apps/samsung-pass/"><img alt="Samsung Pass" height="20" src="https://img.shields.io/badge/Samsung%20Pass-1428A0?style=plastic&logo=samsung&logoColor=white"></a>
+    <a href="https://inkscape.org/"><img alt="Inkscape" height="20" src="https://img.shields.io/badge/Inkscape-00A499?style=plastic&logo=inkscape&logoColor=white"></a>
+    <a href="https://imagemagick.org/"><img alt="ImageMagick" height="20" src="https://img.shields.io/badge/ImageMagick-E31937?style=plastic&logo=imagemagick&logoColor=white"></a>
   </p>
   <p>
+    <!-- 许可 -->
     <a href="https://github.com/EldricArlo/Forge/blob/main/LICENSE"><img alt="License: CC BY-SA 4.0" height="20" src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=plastic"></a>
   </p>
   
 </div>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -83,10 +92,6 @@
         *   [**Git 简单操作流程说明**](./1.0.0_Areas_Of_Knowledge/DevOps_And_Infrastructure/Git/Git_Simple_Complete_Step_by_Step_Instructions.md)
     *   **PyPi**
         *   [**PyPi上传指导说明**](./1.0.0_Areas_Of_Knowledge/DevOps_And_Infrastructure/PyPi/Python包发布完全指南：从代码到PyPI.md)
-    *   **FFmpeg**
-        *   [**FFmpeg命令说明**](./1.0.0_Areas_Of_Knowledge/DevOps_And_Infrastructure/FFmpeg/FFmpeg.md)
-    *   **yt-dlp**
-        *   [**yt-dlp命令说明**](./1.0.0_Areas_Of_Knowledge/DevOps_And_Infrastructure/yt-dlp/yt-dlp.md)
 *   **框架与工具 (Frameworks_And_Tools)**
     *   **Markdown**
         *   [**Markdown 速查表**](./1.0.0_Areas_Of_Knowledge/Frameworks_And_Tools/Markdown/Markdown_Cheatsheet.md)
@@ -95,6 +100,17 @@
         *   [**PyQt6_Framework_指南**](./1.0.0_Areas_Of_Knowledge/Frameworks_And_Tools/PyQt6/PyQt6_Framework_Guide.md)
     *   **正则表达式 (Regex)**
         *   [**正则表达式指南**](./1.0.0_Areas_Of_Knowledge/Frameworks_And_Tools/Regex/Regular_Expressions_Handbook.md)
+    *   **FFmpeg**
+        *   [**FFmpeg命令说明**](./1.0.0_Areas_Of_Knowledge/Frameworks_And_Tools/FFmpeg/FFmpeg.md)
+    *   **yt-dlp**
+        *   [**yt-dlp命令说明**](./1.0.0_Areas_Of_Knowledge/Frameworks_And_Tools/yt-dlp/yt-dlp.md)
+    *   **ImageMagick**
+        *   [**ImageMagick命令详细说明**](./1.0.0_Areas_Of_Knowledge/Frameworks_And_Tools/ImageMagick/ImageMagick.md)
+    *   **Inkscape**
+        *   [**Inkscape自动化矢量图形处理工具说明**](./1.0.0_Areas_Of_Knowledge/Frameworks_And_Tools/Inkscape/Inkscape.md)
+*   **Modeling_Tool_App**
+    *   **blender**
+        *   [**blender说明**](./1.0.0_Areas_Of_Knowledge/Modeling_Tool_App/blender.md)
 *   **Programming_Languages**
     *   **Flutter_and_Dart**
         *   [**Dart 语言指南**](./1.0.0_Areas_Of_Knowledge/Programming_Languages/Flutter_and_Dart/Flutter_and_Python_Guide.md)
@@ -110,6 +126,9 @@
             *   [**Rich库指南**](./1.0.0_Areas_Of_Knowledge/Programming_Languages/Python/libraries/Rich_Library_Guide.md)
             *   [**Seaborn库指南**](./1.0.0_Areas_Of_Knowledge/Programming_Languages/Python/libraries/Seaborn_Guide.md)
         *   [**Python 语法手册**](./1.0.0_Areas_Of_Knowledge/Programming_Languages/Python/Python_Syntax_Handbook.md)
+        *   [**可变参数`*args`和`**kwages指南`**](./1.0.0_Areas_Of_Knowledge/Programming_Languages/Python/args_and_kwargs_guild.md)
+        *   [**python数据清洗指南**](./1.0.0_Areas_Of_Knowledge/Programming_Languages/Python/Python数据清洗核心指南.md)
+        *   [**python随机数说明**](./1.0.0_Areas_Of_Knowledge/Programming_Languages/Python/random_guild.md)
     *   **C**
         *   [**C语言基础入门语法指南**](./1.0.0_Areas_Of_Knowledge/Programming_Languages/C/C语言核心语法深度解析.md)
         *   [**C语言核心语法说明**](./1.0.0_Areas_Of_Knowledge/Programming_Languages/C/C语言核心语法深度解析.md)
@@ -153,7 +172,10 @@
 
 这是一个高度个人化的知识库项目。尽管如此，如果您在浏览笔记时发现了任何明显的错误、拼写问题或有可以改进的建议，非常欢迎通过 [GitHub Issues](https://github.com/EldricArlo/Forge/issues) 提出，我会尽快的改进你提出的内容
 
+<div align = "center">
+
 **当然，如果你能愿意帮助我修改，我感激不尽**
+</div>
 
 <div align = "center">
 非常感谢您对我的纠正，我们一起来学习和进步!!!
