@@ -83,6 +83,10 @@
         *   [**Git 简单操作流程说明**](./1.0.0_Areas_Of_Knowledge/DevOps_And_Infrastructure/Git/Git_Simple_Complete_Step_by_Step_Instructions.md)
     *   **PyPi**
         *   [**PyPi上传指导说明**](./1.0.0_Areas_Of_Knowledge/DevOps_And_Infrastructure/PyPi/Python包发布完全指南：从代码到PyPI.md)
+    *   **FFmpeg**
+        *   [**FFmpeg命令说明**](./1.0.0_Areas_Of_Knowledge/DevOps_And_Infrastructure/FFmpeg/FFmpeg.md)
+    *   **yt-dlp**
+        *   [**yt-dlp命令说明**](./1.0.0_Areas_Of_Knowledge/DevOps_And_Infrastructure/yt-dlp/yt-dlp.md)
 *   **框架与工具 (Frameworks_And_Tools)**
     *   **Markdown**
         *   [**Markdown 速查表**](./1.0.0_Areas_Of_Knowledge/Frameworks_And_Tools/Markdown/Markdown_Cheatsheet.md)
