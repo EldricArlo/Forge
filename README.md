@@ -90,6 +90,8 @@
         *   [**Git & GitHub 指南**](./1.0.0_Areas_Of_Knowledge/DevOps_And_Infrastructure/Git/Git_Cheatsheet.md)
         *   [**Git 完全速查表**](./1.0.0_Areas_Of_Knowledge/DevOps_And_Infrastructure/Git/Git_Cheatsheet.md)
         *   [**Git 简单操作流程说明**](./1.0.0_Areas_Of_Knowledge/DevOps_And_Infrastructure/Git/Git_Simple_Complete_Step_by_Step_Instructions.md)
+    *   **PyPi**
+        *   [**PyPi上传指导说明**](./1.0.0_Areas_Of_Knowledge/DevOps_And_Infrastructure/PyPi/Python包发布完全指南：从代码到PyPI.md)
 *   **框架与工具 (Frameworks_And_Tools)**
     *   **Markdown**
         *   [**Markdown 速查表**](./1.0.0_Areas_Of_Knowledge/Frameworks_And_Tools/Markdown/Markdown_Cheatsheet.md)
@@ -113,6 +115,16 @@
             *   [**Rich库指南**](./1.0.0_Areas_Of_Knowledge/Programming_Languages/Python/libraries/Rich_Library_Guide.md)
             *   [**Seaborn库指南**](./1.0.0_Areas_Of_Knowledge/Programming_Languages/Python/libraries/Seaborn_Guide.md)
         *   [**Python 语法手册**](./1.0.0_Areas_Of_Knowledge/Programming_Languages/Python/Python_Syntax_Handbook.md)
+    *   **C**
+        *   [**C语言基础入门语法指南**](./1.0.0_Areas_Of_Knowledge/Programming_Languages/C/C语言核心语法深度解析.md)
+        *   [**C语言核心语法说明**](./1.0.0_Areas_Of_Knowledge/Programming_Languages/C/C语言核心语法深度解析.md)
+    *   **Javascript**
+        *   [**Javascript核心概念语DOM变成指南**](./1.0.0_Areas_Of_Knowledge/Programming_Languages/Javascript/JavaScript%20核心概念与%20DOM%20编程指南.md)
+    *   **Go**
+        *   [**Go语言简单说明**](./1.0.0_Areas_Of_Knowledge/Programming_Languages/Go/go语言简单指导.md)
+    *   **Matlib**
+        *   [**大致学习路径**](./1.0.0_Areas_Of_Knowledge/Programming_Languages/Matlab/大致学习路径.md)
+        *   [**Matlab完整学习和实践指南(本文档根据学习路径补充）**](./1.0.0_Areas_Of_Knowledge/Programming_Languages/Matlab/Matlab完整学习和实践指南：从入门到专业应用.md)
 *   **Security_And_Cryptography**
     *   **Authentication**
         *   [**支持二重验证器应用及网站列表**](./1.0.0_Areas_Of_Knowledge/Security_And_Cryptography/Authentication/TOTP_Supported_Services_List.md)
@@ -139,6 +151,8 @@
 *   [**Useful_CLI_Commands**](./3.0.0_Resource_Collections/Useful_CLI_Commands.md)
 
 ### 归档 (Archives)
+
+**所有的归档内容都没有了任何阅读意义，故归档内容不链接在这里**
 
 ## 🤓 贡献指南
 
