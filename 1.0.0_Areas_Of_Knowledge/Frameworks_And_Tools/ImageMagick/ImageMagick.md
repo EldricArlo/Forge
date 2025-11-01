@@ -1,6 +1,12 @@
 
 ## ImageMagick 命令行深度指南：安装、核心功能与高级应用
 
+本项目的github开源仓库地址：https://github.com/ImageMagick/ImageMagick
+
+更多的知识文档请阅该仓库README说明
+
+**感谢Cristy大佬对开源社区的贡献！！！**
+
 ---
 
 ### 目录

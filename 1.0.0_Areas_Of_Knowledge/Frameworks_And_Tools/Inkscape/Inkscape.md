@@ -1,6 +1,12 @@
 
 ## Inkscape 命令行深度指南：自动化矢量图形处理
 
+Inkscape开源项目的github仓库地址：https://github.com/inkscape/inkscape
+
+更多的知识文档请阅该仓库README说明
+
+**感谢ted-gould大佬对开源社区的贡献！！！**
+
 ---
 
 ### 目录

@@ -193,6 +193,10 @@
 进行许可授权
 </div>
 
+对于某些开源项目，因为采用的不同的开源或者闭源LiCENSE，在此特别说明，并提供详细的LICENSE解释：
+
+对于[ImageMagick](https://github.com/ImageMagick/ImageMagick?tab=License-1-ov-file)项目采用的是与本项目不同的许可证明[ImageMagick License](https://imagemagick.org/script/license.php)，回应license的义务要求，我会在本仓库中保存一份该license副本[ImageMagick License Clone](./LICENSES/LICENSE-ImageMagick)
+
 ~~这意味着您可以自由地：~~
 ~~*   **分享** — 在任何媒介以任何形式复制、发行本作品~~
 ~~*   **演绎** — 修改、转换或以本作品为基础进行创作~~
