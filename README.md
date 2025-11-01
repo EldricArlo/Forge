@@ -108,10 +108,10 @@
         *   [**ImageMagick命令详细说明**](./1.0.0_Areas_Of_Knowledge/Frameworks_And_Tools/ImageMagick/ImageMagick.md)
     *   **Inkscape**
         *   [**Inkscape自动化矢量图形处理工具说明**](./1.0.0_Areas_Of_Knowledge/Frameworks_And_Tools/Inkscape/Inkscape.md)
-*   **Modeling_Tool_App**
+*   **Modeling_Tool_App (3D建模)**
     *   **blender**
         *   [**blender说明**](./1.0.0_Areas_Of_Knowledge/Modeling_Tool_App/blender.md)
-*   **Programming_Languages**
+*   **Programming_Languages (计算机语言)**
     *   **Flutter_and_Dart**
         *   [**Dart 语言指南**](./1.0.0_Areas_Of_Knowledge/Programming_Languages/Flutter_and_Dart/Flutter_and_Python_Guide.md)
     *   **Python**
@@ -139,7 +139,7 @@
     *   **Matlib**
         *   [**大致学习路径**](./1.0.0_Areas_Of_Knowledge/Programming_Languages/Matlab/大致学习路径.md)
         *   [**Matlab完整学习和实践指南(本文档根据学习路径补充）**](./1.0.0_Areas_Of_Knowledge/Programming_Languages/Matlab/Matlab完整学习和实践指南：从入门到专业应用.md)
-*   **Security_And_Cryptography**
+*   **Security_And_Cryptography (计算机安全语加密)**
     *   **Authentication**
         *   [**支持二重验证器应用及网站列表**](./1.0.0_Areas_Of_Knowledge/Security_And_Cryptography/Authentication/TOTP_Supported_Services_List.md)
     *   **Password_Managers**
