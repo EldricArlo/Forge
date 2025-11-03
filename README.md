@@ -204,14 +204,6 @@
 
 对于[ImageMagick](https://github.com/ImageMagick/ImageMagick?tab=License-1-ov-file)项目采用的是与本项目不同的许可证明[ImageMagick License](https://imagemagick.org/script/license.php)，回应license的义务要求，我会在本仓库中保存一份该license副本[ImageMagick License Clone](./LICENSES/LICENSE-ImageMagick)
 
-~~这意味着您可以自由地：~~
-~~*   **分享** — 在任何媒介以任何形式复制、发行本作品~~
-~~*   **演绎** — 修改、转换或以本作品为基础进行创作~~
-
-~~只要你遵守以下许可协议条款：~~
-~~*   **署名** — 您必须给出适当的署名~~
-~~*   **相同方式共享** — 如果您再混合、转换、或者基于该作品创作，您必须基于同样的许可协议分发您的贡献~~
-
 ----
 >* Life's but a walking shadow, a poor player,That struts and frets his hour upon the stage,And then is heard no more. It is a tale Told by an idiot, full of sound and fury,Signifying nothing. William Shakespeare / Macbeth
 >* 人生如癡人說夢，充滿著喧嘩與躁動，卻沒有任何意義。 威廉·莎士比亞
