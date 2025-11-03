@@ -27,6 +27,10 @@
     <a href="https://www.samsung.com/global/galaxy/apps/samsung-pass/"><img alt="Samsung Pass" height="20" src="https://img.shields.io/badge/Samsung%20Pass-1428A0?style=plastic&logo=samsung&logoColor=white"></a>
     <a href="https://inkscape.org/"><img alt="Inkscape" height="20" src="https://img.shields.io/badge/Inkscape-00A499?style=plastic&logo=inkscape&logoColor=white"></a>
     <a href="https://imagemagick.org/"><img alt="ImageMagick" height="20" src="https://img.shields.io/badge/ImageMagick-E31937?style=plastic&logo=imagemagick&logoColor=white"></a>
+    <!-- Clash -->
+    <a href="https://github.com/Dreamacro/clash"><img alt="Clash" height="20" src="https://img.shields.io/badge/Clash-1AE2C3?style=plastic&logo=clash&logoColor=white"></a>
+    <!-- Google Authenticator -->
+    <a href="https://github.com/google/google-authenticator"><img alt="Google Authenticator" height="20" src="https://img.shields.io/badge/Google%20Authenticator-4285F4?style=plastic&logo=googleauthenticator&logoColor=white"></a>
   </p>
   <p>
     <!-- 许可 -->
