@@ -31,6 +31,7 @@
     <a href="https://github.com/Dreamacro/clash"><img alt="Clash" height="20" src="https://img.shields.io/badge/Clash-1AE2C3?style=plastic&logo=clash&logoColor=white"></a>
     <!-- Google Authenticator -->
     <a href="https://github.com/google/google-authenticator"><img alt="Google Authenticator" height="20" src="https://img.shields.io/badge/Google%20Authenticator-4285F4?style=plastic&logo=googleauthenticator&logoColor=white"></a>
+    <a href="https://www.msys2.org/"><img alt="MSYS2" height="20" src="https://img.shields.io/badge/MSYS2-3498DB?style=plastic&logo=msys2&logoColor=white"></a>
   </p>
   <p>
     <!-- 许可 -->
@@ -99,6 +100,8 @@
         *   [**Git 简单操作流程说明**](./1.0.0_Areas_Of_Knowledge/DevOps_And_Infrastructure/Git/Git_Simple_Complete_Step_by_Step_Instructions.md)
     *   **PyPi**
         *   [**PyPi上传指导说明**](./1.0.0_Areas_Of_Knowledge/DevOps_And_Infrastructure/PyPi/Python包发布完全指南：从代码到PyPI.md)
+    *   **MSYS2**
+        *   [**MSYS2与MinGW-w64环境编译C/C++项目指南**](./1.0.0_Areas_Of_Knowledge/DevOps_And_Infrastructure/MSYS2/msys2编译.md)
 *   **框架与工具 (Frameworks_And_Tools)**
     *   **Markdown**
         *   [**Markdown 速查表**](./1.0.0_Areas_Of_Knowledge/Frameworks_And_Tools/Markdown/Markdown_Cheatsheet.md)
